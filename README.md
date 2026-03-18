@@ -108,7 +108,7 @@ Dataset terdiri dari 3 file CSV:
 
 #### Distribusi Rating
 
-![Distribusi Rating](https://raw.githubusercontent.com/[username]/[repo]/main/images/rating_distribution.png)
+![Distribusi Rating](https://raw.githubusercontent.com/kendrickassignment/book-recommendation-system/main/images/rating_distribution.png)
 
 **Gambar 1. Distribusi Rating Buku**
 
@@ -119,7 +119,7 @@ Insight:
 
 #### Top 10 Penulis Paling Produktif
 
-![Top Authors](https://raw.githubusercontent.com/[username]/[repo]/main/images/top_authors.png)
+![Top Authors](https://raw.githubusercontent.com/kendrickassignment/book-recommendation-system/main/images/top_authors.png)
 
 **Gambar 2. Top 10 Penulis dengan Jumlah Buku Terbanyak**
 
@@ -129,7 +129,7 @@ Insight:
 
 #### Distribusi Tahun Terbit
 
-![Year Distribution](https://raw.githubusercontent.com/[username]/[repo]/main/images/year_distribution.png)
+![Year Distribution](https://raw.githubusercontent.com/kendrickassignment/book-recommendation-system/main/images/year_distribution.png)
 
 **Gambar 3. Distribusi Tahun Terbit Buku**
 
@@ -139,7 +139,7 @@ Insight:
 
 #### Distribusi Usia Pengguna
 
-![Age Distribution](https://raw.githubusercontent.com/[username]/[repo]/main/images/age_distribution.png)
+![Age Distribution](https://raw.githubusercontent.com/kendrickassignment/book-recommendation-system/main/images/age_distribution.png)
 
 **Gambar 4. Distribusi Usia Pengguna**
 
@@ -150,7 +150,7 @@ Insight:
 
 #### Top 10 Publisher
 
-![Top Publishers](https://raw.githubusercontent.com/[username]/[repo]/main/images/top_publishers.png)
+![Top Publishers](https://raw.githubusercontent.com/kendrickassignment/book-recommendation-system/main/images/top_publishers.png)
 
 **Gambar 5. Top 10 Publisher dengan Buku Terbanyak**
 
@@ -350,7 +350,7 @@ Model berhenti pada **epoch ke-26** karena Early Stopping aktif.
 
 **Visualisasi Training:**
 
-![Training History](https://raw.githubusercontent.com/[username]/[repo]/main/images/training_history.png)
+![Training History](https://raw.githubusercontent.com/kendrickassignment/book-recommendation-system/main/images/training_history.png)
 
 **Gambar 6. Kurva Training Loss dan RMSE**
 
@@ -452,7 +452,7 @@ MAE menghitung rata-rata nilai absolut selisih prediksi dan aktual. Lebih mudah 
 
 **Visualisasi Prediksi vs Aktual:**
 
-![Prediction vs Actual](https://raw.githubusercontent.com/[username]/[repo]/main/images/prediction_vs_actual.png)
+![Prediction vs Actual](https://raw.githubusercontent.com/kendrickassignment/book-recommendation-system/main/images/prediction_vs_actual.png)
 
 **Gambar 7. Scatter Plot Rating Aktual vs Rating Prediksi**
 
